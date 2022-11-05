@@ -1,6 +1,6 @@
 {
-  "name": "exifr",
-  "version": "7.1.3",
+  "name": "@evshiron/exifr",
+  "version": "7.1.4",
   "description": "📷 The fastest and most versatile JavaScript EXIF reading library.",
   "author": "Mike Kovarik",
   "license": "MIT",
@@ -26,7 +26,7 @@
   "bugs": "https://github.com/MikeKovarik/exifr/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MikeKovarik/exifr.git"
+    "url": "https://github.com/evshiron/exifr.git"
   },
   "main": "./dist/full.umd.js",
   "module": "./dist/full.esm.mjs",
